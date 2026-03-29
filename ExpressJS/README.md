@@ -13,3 +13,6 @@ JWT_SECRET=my_super_secret_key
 RESEND_API_KEY=re_ZTFo73Mp_MwTnd59V6MDfrGJrRHaD4mgQ
 CLIENT_URL=http://localhost:5173
 MAPQUEST_KEY=cDekSr6dmOy5QadKYrjxFvL4cHmXJs2C
+
+
+to run node index.js
