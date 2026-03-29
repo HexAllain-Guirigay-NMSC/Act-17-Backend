@@ -1,3 +1,6 @@
+npm install
+
+
 Create the .env for the file 
 
 PORT=5000
