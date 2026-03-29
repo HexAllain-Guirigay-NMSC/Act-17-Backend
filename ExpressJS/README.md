@@ -1,7 +1,7 @@
 npm install
 
 
-Create the .env for the file 
+Create the .env for the file along side the upload folder and index.js location
 
 PORT=5000
 DB_HOST=localhost
